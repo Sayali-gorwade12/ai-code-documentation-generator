@@ -1,0 +1,24 @@
+{
+  "name": "ai-mindmap-generator-mca",
+  "version": "1.0.0",
+  "description": "AI-Powered Mind Map & Concept Visualization Generator (MERN Stack, MCA Practical)",
+  "scripts": {
+    "server": "npm.cmd --prefix server run dev",
+    "client": "npm.cmd --prefix client run dev",
+    "build": "npm.cmd --prefix client run build",
+    "start": "npm.cmd --prefix server start"
+  },
+  "keywords": [
+    "mern-stack",
+    "mindmap",
+    "concept-visualization",
+    "mermaid-js",
+    "openai",
+    "mongodb",
+    "express",
+    "react",
+    "mca-practical"
+  ],
+  "author": "MCA Practical Project",
+  "license": "MIT"
+}
